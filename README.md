@@ -1,4 +1,4 @@
-# StatusSplitter (StatusSplitter) 🚀
+# StatusSplitter (StatusSplitter) 
 
 **One-tap video splitter for WhatsApp Status**  
 Split any video into perfect 30-second segments and post them directly to WhatsApp Status — no manual cutting, no leaving the app.
@@ -11,10 +11,10 @@ Perfect for long videos that exceed WhatsApp's 30-second limit. Fast, simple, an
 [![Build In Public](https://img.shields.io/badge/Build-In%20Public-green)](https://x.com/govenoralorzuke)
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana-orange)](https://github.com/code-solves)
 
-## 📱 Demo / Screenshots
+## Demo / Screenshots
 *(MVP in progress — screenshots coming soon!)*
 
-## 🚀 Features (MVP & Planned)
+## Features (MVP & Planned)
 - Pick any video from gallery
 - Auto-split into exact 30-second clips (no partial segments)
 - Preview clips before posting
@@ -22,13 +22,13 @@ Perfect for long videos that exceed WhatsApp's 30-second limit. Fast, simple, an
 - No watermarks, no ads (free & open-source)
 - Future: Batch processing, custom lengths, manual trim adjustments
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework**: Flutter (cross-platform — one codebase for Android & iOS)
 - **Language**: Dart
 - **Key Packages**: `video_player`, `ffmpeg_kit_flutter` (for splitting), `image_picker`, `share_plus`
 - **Development**: Built on Windows → Deploy to both platforms
 
-## 📖 My Journey & Pivot
+## My Journey & Pivot
 Originally planned as my first **native iOS app** in Swift + SwiftUI (after starting with a Swift CLI calculator).  
 But without a MacBook, Xcode previews, simulators, and full builds were too limited on Windows — even Xcode Cloud workarounds weren't sustainable.
 
@@ -41,7 +41,7 @@ Once I get a MacBook, I'll explore a native SwiftUI version too!
 
 #BuildInPublic | Learning mobile dev practically 🇬🇭
 
-## 🛠️ Getting Started (For Developers)
+## Getting Started (For Developers)
 ```bash
 git clone https://github.com/code-solves/StatusSplitter.git
 cd StatusSplitter
